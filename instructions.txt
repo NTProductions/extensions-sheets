@@ -1,0 +1,13 @@
+1) Create/Select Google Cloud Project
+https://console.cloud.google.com/welcome?project=certain-root-348708&pli=1
+
+2) Go to APIs & Services -> Credentials
+https://console.cloud.google.com/apis/credentials?project=certain-root-348708
+
+3) Create OAuth 2.0 Client for Desktop
+
+4) Download as JSON
+
+5) Rename to client_secret.json and put in extension root path
+
+6) Use extension code
